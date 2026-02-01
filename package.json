@@ -1,0 +1,21 @@
+{
+  "name": "devbox-web",
+  "author": "Smith Gajjar <smith.gajjar@gmail.com>",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://devbox.smithgajjar.dev/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "yarn run build && npx gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/vite-plugin-svelte": "^3.0.1",
+    "gh-pages": "^6.3.0",
+    "svelte": "^4.2.8",
+    "vite": "^5.0.11"
+  }
+}
