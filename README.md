@@ -52,7 +52,7 @@ devbox-landing/
 
 ## Deployment
 
-Execute `npm run deploy` to build and deploy the site to GitHub Pages. 
+Execute `npm run deploy` to build and deploy the site to GitHub Pages.
 
 ## Customization
 

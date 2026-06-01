@@ -22,6 +22,9 @@
     <div class="nav-content">
       <ul class="nav-links">
         <li>
+          <a href="#whats-new" on:click={(e) => smoothScroll(e, "#whats-new")}>What's New</a>
+        </li>
+        <li>
           <a href="#features" on:click={(e) => smoothScroll(e, "#features")}
             >Features</a
           >

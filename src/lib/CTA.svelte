@@ -2,20 +2,20 @@
   const downloads = [
     {
       platform: "macOS (Apple Silicon)",
-      size: "v1.1.0 • ~45MB",
-      url: "https://github.com/smithg09/devbox/releases/download/devbox-v1.1.0/Devbox_1.1.0_aarch64.dmg",
+      size: "v2.0.0 • 12.4 MB",
+      url: "https://github.com/smithg09/devbox/releases/download/devbox-v2.0.0/Devbox_2.0.0_aarch64.dmg",
       logo: "apple",
     },
     {
       platform: "macOS (Intel)",
-      size: "v1.1.0 • ~47MB",
-      url: "https://github.com/smithg09/devbox/releases/download/devbox-v1.1.0/Devbox_1.1.0_x64.dmg",
+      size: "v2.0.0 • 12.5 MB",
+      url: "https://github.com/smithg09/devbox/releases/download/devbox-v2.0.0/Devbox_2.0.0_x64.dmg",
       logo: "apple",
     },
     {
       platform: "Windows (x64)",
-      size: "v1.1.0 • ~42MB",
-      url: "https://github.com/smithg09/devbox/releases/download/devbox-v1.1.0/Devbox_1.1.0_x64-setup.exe",
+      size: "v2.0.0 • 11.4 MB",
+      url: "https://github.com/smithg09/devbox/releases/download/devbox-v2.0.0/Devbox_2.0.0_x64-setup.exe",
       logo: "windows",
     },
   ];

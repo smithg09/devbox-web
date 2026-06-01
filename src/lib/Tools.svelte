@@ -5,7 +5,7 @@
     {
       title: "Network",
       icon: "🌐",
-      tools: ["GraphiQL", "REST Client", "HAR Viewer", "DNS Lookup"],
+      tools: ["GraphiQL", "REST Client", "HAR Viewer", "DNS Lookup", "Webhook Inspector", "CORS Debugger", "SSE Debugger"],
     },
     {
       title: "Security",
@@ -41,6 +41,7 @@
         "Diff Viewer",
         "SVG Preview",
         "HTML/CSS Preview",
+        "Mermaid Diagram Editor",
       ],
     },
     {
@@ -51,6 +52,7 @@
         "SQL Formatter",
         "JS/TS Minifier",
         "CSS Minifier",
+        "HTML Minifier",
       ],
     },
     {
@@ -58,15 +60,17 @@
       icon: "🔄",
       tools: [
         "JSON ⇄ YAML",
+        "Backslash Escape",
+        "URL Parser",
         "URL Encoder",
         "Base64 Encoder",
         "Epoch Converter",
       ],
     },
     {
-      title: "Coming Soon",
-      icon: "🚀",
-      tools: ["WebSocket Client", "Mock API Server", "Webhook Tester"],
+      title: "AI Tooling",
+      icon: "🤖",
+      tools: ["MCP Server Tester", "llms.txt Generator", "Chunking Playground", "Prompt Version Manager"],
     },
   ];
 
@@ -86,7 +90,7 @@
   <div class="container">
     <div class="section-header">
       <div class="section-label">Complete Toolkit</div>
-      <h2>30+ Essential Developer Utilities</h2>
+      <h2>40+ Essential Developer Utilities</h2>
       <p class="section-description">
         Everything from JWT decoding to GraphQL testing, all in one place.
       </p>

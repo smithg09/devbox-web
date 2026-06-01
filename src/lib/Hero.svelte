@@ -3,7 +3,7 @@
 
   let terminalLines = [
     { prompt: "$", text: "devbox --version", visible: false },
-    { prompt: "", text: "v1.1.0", visible: false },
+    { prompt: "", text: "v2.0.0", visible: false },
     { prompt: "$", text: "All tools ready offline ✓", visible: false },
   ];
 
@@ -66,7 +66,7 @@
         Zero friction.
       </h1>
       <p class="hero-description">
-        Stop juggling browser tabs and online tools. DevBox bundles 30+
+        Stop juggling browser tabs and online tools. DevBox bundles 40+
         essential utilities into one fast, offline-first desktop app built with
         Tauri and React.
       </p>
@@ -98,7 +98,7 @@
       </p>
       <div class="stats">
         <div class="stat">
-          <span class="stat-value">30+</span>
+          <span class="stat-value">40+</span>
           <span class="stat-label">Developer Tools</span>
         </div>
         <div class="stat">
